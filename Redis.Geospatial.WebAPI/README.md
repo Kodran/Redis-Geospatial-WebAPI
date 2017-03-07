@@ -1,0 +1,3 @@
+﻿# Redis.Geospatial.WebAPI
+
+

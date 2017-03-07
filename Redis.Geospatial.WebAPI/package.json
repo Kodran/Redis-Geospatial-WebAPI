@@ -1,0 +1,14 @@
+{
+  "name": "redis.geospatial.web-api",
+  "version": "1.0.0",
+  "description": "Redis.Geospatial.WebAPI",
+  "main": "server.js",
+  "author": {
+    "name": "Jorge Castro"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0",
+    "redis": "^2.6.5"
+  }
+}
